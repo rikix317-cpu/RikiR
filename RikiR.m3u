@@ -7,3 +7,5 @@ https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1844684832_b744
 https://gtv-linier.rctiplus.id/hdntl=exp=1787187972~acl=%2F*~data=hdntl~hmac=6587e32d19af369e12cb970e4e79d6261525da2ceee298483973729704ab5344/gtv-sdi-avc1_210000=3-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-name="MNCTV" group-title="Indonesia",MNCTV
 https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787170032~hmac=947ede550e4f6b1cb36d0f0b701aeb3e52684788665deaff306fdc423002c624
+#EXTINF:-1 tvg-name="MNCTV HD" group-title="Indonesia",MNCTV HD
+https://mnctv-linier.rctiplus.id/hdntl=exp=1787188032~acl=%2F*~data=hdntl~hmac=d033d3748c50ba601d92014c90a747cb57898d89567019b4f611dc7ef3c7a83a/mnctv-sdi-avc1_100000=11-mp4a_96000=1.m3u8
